@@ -6,7 +6,7 @@ public class Main {
         System.out.println("Addition " + Calculator.add(10, 23));
 
         System.out.println("Interest " + interestCalculator.interestCal(100000, 8, 5));
-        System.out.println("CIC: " + CICalculator.cical(10000, 200, 37));
+        System.out.println("Add: " + Add.add(20,19));
     }
 
 
